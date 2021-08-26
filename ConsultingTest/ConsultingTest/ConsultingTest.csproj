@@ -6,4 +6,10 @@
     <UseWindowsForms>true</UseWindowsForms>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Reference Include="DevExpress.XtraEditors.v21.1">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\DevExpress 21.1\.NET Core Desktop Libraries\Offline Packages\devexpress.win.design\21.1.5\lib\net5.0-windows\DevExpress.XtraEditors.v21.1.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
